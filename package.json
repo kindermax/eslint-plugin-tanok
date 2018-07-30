@@ -5,12 +5,17 @@
   "keywords": [
     "eslint",
     "eslintplugin",
-    "eslint-plugin"
+    "eslint-plugin",
+    "tanok"
   ],
   "author": "Kindritskiy Max",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha tests --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kindritskyiMax/eslint-plugin-tanok.git"
   },
   "dependencies": {
     "requireindex": "~1.1.0"
@@ -22,5 +27,5 @@
   "engines": {
     "node": ">=0.10.0"
   },
-  "license": "ISC"
+  "license": "MIT"
 }
