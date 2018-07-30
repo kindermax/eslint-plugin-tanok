@@ -8,7 +8,7 @@
     "eslint-plugin",
     "tanok"
   ],
-  "author": "Kindritskiy Max",
+  "author": "Kindritskiy Maksym",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha tests --recursive"

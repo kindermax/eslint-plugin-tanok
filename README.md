@@ -1,6 +1,6 @@
 # eslint-plugin-tanok
 
-Eslint plugin for takok.js
+Eslint plugin for tanok.js
 
 ## Installation
 
@@ -43,7 +43,7 @@ Then configure the rules you want to use under the rules section.
 
 ## Supported Rules
 
-* Fill in provided rules here
+* no-literal-events - Forbid literal event names in `send` function
 
 
 
