@@ -43,9 +43,4 @@ Then configure the rules you want to use under the rules section.
 
 ## Supported Rules
 
-* no-literal-events - Forbid literal event names in `send` function
-
-
-
-
-
+* [no-literal-events] - Forbid literal event names in `send` function
