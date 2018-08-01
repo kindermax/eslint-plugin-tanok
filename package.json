@@ -11,7 +11,8 @@
   "author": "Kindritskiy Maksym",
   "main": "lib/index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test-watch": "jest --watch"
   },
   "repository": {
     "type": "git",
